@@ -2,18 +2,24 @@
 
 pkg update && pkg upgrade
 
+pkg install python
+
 pkg install git
 
-pkg install python3
+pip install bs4
 
-pip2 install requests
+pip install requests
 
-pip2 install mechanize
+pip install mechanize
 
-pip2 install bs4
+pip install futures
+
+pkg install git 
+
+rm -rf MbfX
 
 git clone https://github.com/XRin12/MbfX
 
 cd MbfX
 
-python3 prem.py
+python prem.py
