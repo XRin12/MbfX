@@ -17,7 +17,7 @@
 #                                                    #
 # File Name: prem.py                                 #
 #                                                    #
-# Github: https://www.github.com/Dekura-X            #
+# Github: https://www.github.com/OpXrin.             #
 #                                                    #
 ######################################################
 
