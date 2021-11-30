@@ -1,4 +1,4 @@
-# MbfX
+# prem
 
 pkg update && pkg upgrade
 
